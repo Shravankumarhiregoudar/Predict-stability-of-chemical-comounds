@@ -7,4 +7,4 @@ The training labels are a discretization of the 1D binary phase diagram at 10% i
 Task is to build a machine learning model in Python to predict the full stability vector.  
 
 
-**Read report in results directory for complete understanding of the project**
+**Read report in results directory for complete picture of the project**
