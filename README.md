@@ -5,3 +5,6 @@ The idea behind this challenge is to use data to solve a canonical thermodynamic
 The training labels are a discretization of the 1D binary phase diagram at 10% intervals. For example, the label for OsTi ([1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0]) translates into the following stable compounds:  Os, Os{0.5}Ti{0.5} or OsTi, and Ti. 
 
 Task is to build a machine learning model in Python to predict the full stability vector.  
+
+
+Read report in results directory for complete understanding of the project
