@@ -1,0 +1,13 @@
+Requirements:
+Python
+Jupyter notebook/lab
+
+Libraries:
+sklearn
+matplotlib
+numpy
+scipy
+pandas
+seaborn
+plotly
+
